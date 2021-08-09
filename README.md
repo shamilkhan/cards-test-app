@@ -1,6 +1,14 @@
 # `🃏 Cards` | [Demo](https://festive-lewin-eccc08.netlify.app/)
 `Cards` is simple test app build with `react`, `create-react-app`, `css`, `БЭМ`
 
+## Build with
+
+<div>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg alt="Typescript" width="30" height="30"/>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg alt="Node.js" width="30" height="30"/>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg alt="Yarn" width="30" height="30"/>
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
