@@ -1,4 +1,4 @@
-# 🃏 Cards - simple test app | [Demo](https://festive-lewin-eccc08.netlify.app/)
+# 🃏 `Cards`is simple test app | [Demo](https://festive-lewin-eccc08.netlify.app/)
 App build with `react`, `create-react-app`, `css`, `БЭМ`
 
 ## Available Scripts
