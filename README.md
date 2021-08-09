@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🃏 Cards - simple test app | [Demo](https://festive-lewin-eccc08.netlify.app/)
+App build with `react`, `create-react-app`, `css`, `БЭМ`
 
 ## Available Scripts
 
