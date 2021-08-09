@@ -27,9 +27,8 @@ const data = [
   },
 ];
 
-const initialTab = data.find(
-  ({ name }) => `#/${name}` === window.location.hash
-) || data[0];
+const initialTab =
+  data.find(({ name }) => `#/${name}` === window.location.hash) || data[0];
 
 function App() {
   const [activeTab, setActiveTab] = useState(initialTab);
