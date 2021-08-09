@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import "./App.css";
 import { Card } from "./card";
 import { List } from "./list";
@@ -28,7 +28,7 @@ const data = [
 ];
 
 const initialTab = data.find(
-  ({ name }) => `/${name}` === window.location.pathname
+  ({ name }) => `#/${name}` === window.location.hash
 ) || data[0];
 
 function App() {
