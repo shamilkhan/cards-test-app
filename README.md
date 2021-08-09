@@ -4,6 +4,8 @@
 ## Build with
 
 <div>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt="Html5" width="30" height="30"/>
+    <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt="Css3" width="30" height="30"/>
     <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg alt="Typescript" width="30" height="30"/>
     <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg alt="Node.js" width="30" height="30"/>
     <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg alt="Yarn" width="30" height="30"/>
